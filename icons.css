@@ -1,0 +1,40 @@
+.fa {
+  padding: 20px;
+  font-size: 50%;
+  width: 8%;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-instagram {
+  background: linear-gradient(to right, #33B5FF 0%, #9933FF 13%, #FF33D7 76%, #FFE633 100%);
+  border: solid black;
+  color: white;
+  font-family: cursive;
+}
+
+.fa-google {
+  background: linear-gradient(to right, #0A69F1 0%, #B80D05 25%, #EC2708 50%, #ECC608 100%);
+  border: solid black;
+  color: white;
+}
+.inst {
+  width: 50px;
+  margin-bottom: 5px;
+  text-decoration: none;
+  margin-left: 45.5%;
+
+}
+
+.mail {
+  width: 60px;
+  /* margin-left: 30px; */
+  margin-top: 5px;
+
+
+}
